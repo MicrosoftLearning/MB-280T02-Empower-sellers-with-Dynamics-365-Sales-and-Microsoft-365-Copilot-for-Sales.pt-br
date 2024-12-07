@@ -85,7 +85,7 @@ Neste exercício, você percorrerá o processo de trabalhar com uma oportunidade
    - Descrição: buscando atualizar suas máquinas de café atuais em vários locais.
 6. Expanda o cabeçalho do registro na parte superior e conclua da seguinte maneira:
    - Data estimada de fechamento: insira a data de amanhã.
-   - Receita estimada: US$ 16,500
+   - Data estimada: US$ 16,500
 7. No controle de Linha do tempo, selecione **+** (adicionar um registro de linha do tempo).
 8. No menu exibido, selecione **Telefonema**.
 9. Preencha o telefonema da seguinte maneira:
