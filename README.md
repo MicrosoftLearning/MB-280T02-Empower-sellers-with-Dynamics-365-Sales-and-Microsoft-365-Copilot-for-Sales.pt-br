@@ -1,3 +1,11 @@
+#README
+
+We've turned off the ability to report issues directly on this repo and do not monitor PRs.
+
+Provide feedback here: https://aka.ms/provide-feedback
+
+Or, if you are a trainer with a microsoft.com email address, please create a ticket in AzDO.
+
 # MB-280T02: Capacitar os vendedores com o Dynamics 365 Sales
 
 Esse repositório contém exercícios e arquivos de suporte para conteúdo de qualificação da Microsoft.
